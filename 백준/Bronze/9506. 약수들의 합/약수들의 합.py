@@ -4,7 +4,6 @@ while True:
 
     divisor=[]
     sum=0
-    sum_output=""
     
     num=int(sys.stdin.readline().rstrip())
     
